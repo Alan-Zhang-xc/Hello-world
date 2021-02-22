@@ -10,3 +10,9 @@ this repository just for practice!
 
 print("hello word")
 print("I am alan")
+
+## 学习计划
+
+### Linux
+### Python-Flask
+### Pythpn-Django
