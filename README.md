@@ -9,3 +9,4 @@ this repository just for practice!
 ###python code
 
 print("hello word")
+print("I am alan")
